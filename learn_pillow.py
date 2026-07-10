@@ -1,3 +1,7 @@
+#
+# Copyright(c) 2025 ZGTeam233.
+#
+
 from PIL import Image
 from PIL import ImageFilter
 import numpy as np
